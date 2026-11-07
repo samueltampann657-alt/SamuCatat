@@ -1,0 +1,6 @@
+{
+  "name": "KasKeluarga",
+  "description": "Aplikasi pencatat keuangan keluarga simpel, rapi, dan responsif dengan anggaran dan statistik",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
